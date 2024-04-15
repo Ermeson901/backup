@@ -1,0 +1,11 @@
+nav a {
+    text-decoration: none;
+    padding: 3em;
+}
+nav {
+    text-align: center;
+}
+
+ul li {
+    list-style: none;
+}   

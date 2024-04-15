@@ -1,0 +1,17 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+p {
+    background-color: red;
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+/*
+figure {
+    background-color: silver;
+    text-align: center;
+} */

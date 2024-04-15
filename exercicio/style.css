@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Scribble&display=swap');
+
+body {
+    background-color: silver;
+}
+
+h1, h2 {
+    font-family: "Rubik Scribble", system-ui;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+    color: rgba(152, 80, 245, 0.498);
+}
+

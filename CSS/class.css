@@ -1,0 +1,7 @@
+p{
+    color: darkgray;
+}
+
+p.className {
+    color: green;
+}
